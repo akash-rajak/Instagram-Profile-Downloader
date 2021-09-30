@@ -40,7 +40,7 @@
 
 ****
 
-### Screenshots:
+### SCREENSHOTS:
 ****
 
 <p align="center">
