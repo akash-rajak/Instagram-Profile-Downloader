@@ -5,7 +5,7 @@
 
 ****
 
-### REQUIREMENTS :
+### REQUIREMENTS:
 - Python 3
 - Tkinter module
 - Filedialog from tkinter
@@ -18,7 +18,7 @@
 
 ****
 
-### HOW tO use it :
+### HOW TO USE IT:
 - User just need to download the file, and run the instagram_profile_downloader.py, on local system.
 - After running a GUI window appears, where user can start the application by clicking on the START button.
 - Before that if user wants to go to instagram through this window, he/she can go by clicking on GO TO INSTAGRAM button.
@@ -30,10 +30,10 @@
 - Also there is a CLEAR button, clicking on which user can clear username entry that user has entered previously.
 - Also there is an EXIT button clicking opn which user can exit from the application.
 
-### Purpose:
+### PURPOSE:
 - This scripts helps user to easily to download the profile of any Instagram user and get the insta id and profile pic.
 
-### Compilation Steps:
+### COMPILATION STEPS:
 - Install **tkinter**, **PIL**, **cv2**, **glob**, **webbrowser**, **instaloader**.
 - After that download the code file, and run instagram_profile_downloader.py on local system.
 - Then the script will start running and user can explore it by entering any insta user name, and dowloading the profile for the same.
