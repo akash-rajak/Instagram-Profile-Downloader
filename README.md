@@ -1,4 +1,4 @@
-### ✔ INSTAGRAM PROFILE DOWNLOADER:
+## ✔ INSTAGRAM PROFILE DOWNLOADER:
 - An "**Instagram Profile Downloader**" is an application created in python with TKinter GUI and OpenCv library.
 - In this application user will be able to download the profile of any instagram user using his/her insta user name.
 - User will also be able to see the profile pic of that user and also get the insta **user ID** also.
@@ -41,7 +41,6 @@
 ****
 
 ### SCREENSHOTS:
-****
 
 <p align="center">
   <img width = "60%" src="Images/1.jpg" /><br>
