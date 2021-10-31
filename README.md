@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 ```
 - Tkinter module
 ```
-pip install tkinter
+pip install tk
 ```
 - Filedialog from tkinter
 - Messagebox
