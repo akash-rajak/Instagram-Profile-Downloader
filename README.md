@@ -6,15 +6,36 @@
 ****
 
 ### REQUIREMENTS:
-- Python 3
+- Download python 3 from below link and install it:
+```
+https://www.python.org/downloads/
+```
 - Tkinter module
+```
+pip install tkinter
+```
 - Filedialog from tkinter
 - Messagebox
 - from PIL import Image, ImageTk
+```
+pip install Pillow
+```
 - cv2
+```
+pip install opencv-python
+```
 - glob
+```
+pip install glob2
+```
 - webbrowser
+```
+pip install glob2
+```
 - instaloader
+```
+pip install instaloader
+```
 
 ****
 
